@@ -3,7 +3,7 @@ THIS IS ONLY A CUSTOM SMS SENDER TOOL. USE IT ONLY FOR EDUCATIONAL PURPOSES. THE
 
 # INSTALLATION 
 
-git clone https://github.com/evandipro2004/CustomSms 
+git clone https://github.com/termuxcommandstore/CustomSms 
 
 cd CustomSms 
 
